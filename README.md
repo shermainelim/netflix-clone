@@ -3,6 +3,8 @@ reactJS and firebase
 
 https://netflix-cloner-reactjs.netlify.app/
 
+Chrome will show warning , but can proceed unsafe site warning. Just a clone example. 
+
 Resource from: https://github.com/AhmedTohamy01/React-Netflix-Clone 
 
 # Problems from the resource (Fixed and Todo)
