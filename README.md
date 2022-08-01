@@ -1,5 +1,5 @@
 # netflix-clone
-reactJS and firebase
+Built using reactJS and firebase
 
 https://netflix-cloner-reactjs.netlify.app/
 
